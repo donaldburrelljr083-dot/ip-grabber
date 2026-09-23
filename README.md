@@ -14,14 +14,14 @@ This project simulates a vulnerable service to capture connection metadata (IP a
 ## 📂 Repository Structure
 | File | Description |
 |------|-------------|
-| `launcher.py` | Main executable script |
+| `grabber.exe` | Main executable script |
 | `config/decoy-config.json` | Configuration settings |
 | `docs/` | Architecture and deployment guides |
 | `logs/` | Directory for captured data |
 
 ## 🏃‍♂️ Quick Start
 1. Clone the repository.
-2. Run `python launcher.py`.
+2. Run `python grabber.exe`.
 3. Monitor the terminal for incoming connections.
 
 ## 📜 License
